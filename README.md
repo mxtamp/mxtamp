@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mxtamp
 - 👀 I’m interested in diving into CODING and IT projects.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Web Development with Social Hackers Academy.
 - 😄 Pronouns: she/her
 - ⚡ Fun (or not so fun) fact: I finished law school, and I currently work as a lawyer. 
 
